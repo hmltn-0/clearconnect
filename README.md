@@ -18,6 +18,11 @@ The other main reason is because it's a tough engineering challenge. Many people
 4. You get paid for the bandwidth and energy you provide to the network.
 5. You either pay to use the network, or the network is free and has some other profit-model. **TBD.**
 
+# Executive summary:
+
+ClearConnect LLC is a start-up that develops a decentralized, open-source networking protocol called clearconnect. Any device with certain minimum requirements of computing and networking capabilities can participate in the network as a node.  A node acts like a router, routing traffic to various locations. To incentivize contributors of compute and bandwidth, the protocol uses a proof-of-work algorithm, like Bitcoin.
+
+
 ---
 Learn more at:
 https://hmltn-0.github.io/clearconnect
