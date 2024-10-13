@@ -22,6 +22,19 @@ The other main reason is because it's a tough engineering challenge. Many people
 
 ClearConnect LLC is a start-up that develops a decentralized, open-source networking protocol called clearconnect. Any device with certain minimum requirements of computing and networking capabilities can participate in the network as a node.  A node acts like a router, routing traffic to various locations. To incentivize contributors of compute and bandwidth, the protocol uses a proof-of-work algorithm, like Bitcoin.
 
+# Team
+
+Julius Hamilton, Founder and Lead Developer.
+
+10 years of academic experience in linguistics, mathematics and computer science
+
+5 years of professional experience in small startups
+
+5 years of experience in computational linguistics in private and corporate contexts
+
+Winner, "Honorable Mention", Permissionless 2024 Hackathon, Salt Lake City, October 9th, 2024, "Python SDK for Ava Protocol". https://app.buidlbox.io/blockworks/permissionless-iii
+
+
 
 ---
 Learn more at:
