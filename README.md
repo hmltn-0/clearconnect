@@ -18,6 +18,7 @@ The other main reason is because it's a tough engineering challenge. Many people
 4. You get paid for the bandwidth and energy you provide to the network.
 5. You either pay to use the network, or the network is free and has some other profit-model. **TBD.**
 
+---
 Learn more at:
 https://hmltn-0.github.io/clearconnect
 
