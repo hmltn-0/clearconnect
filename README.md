@@ -10,7 +10,7 @@ These devices are capable of bidirectional communication. The main reason we are
 
 The other main reason is because it's a tough engineering challenge. Many people are working on the emerging new field of decentralized mobile mesh networks. It's a promising field. It's just that nobody has solved the problem yet, by creating an infrastructure and a protocol with wide adoption. We at clearconnect just want to join in and try to develop a frontier technology that could change the internet as we know it.
 
-# How it would work
+# How it would work.
 
 1. You have a wirelessly enabled hardware device (a smartwatch, laptop, smartphone, WiFi router, etc.)
 2. You install our software or firmware that allows it to engage in the network as a node (like a vast array of other decentralized blockchain protocols.)
@@ -19,5 +19,5 @@ The other main reason is because it's a tough engineering challenge. Many people
 5. You either pay to use the network, or the network is free and has some other profit-model. **TBD.**
 
 Learn more at:
-https;//clearconnect.github.io
+https://hmltn-0.github.io/clearconnect
 
