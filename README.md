@@ -18,11 +18,13 @@ The other main reason is because it's a tough engineering challenge. Many people
 4. You get paid for the bandwidth and energy you provide to the network.
 5. You either pay to use the network, or the network is free and has some other profit-model. **TBD.**
 
-# Executive summary:
+# About
+
+## Executive summary:
 
 ClearConnect LLC is a start-up that develops a decentralized, open-source networking protocol called clearconnect. Any device with certain minimum requirements of computing and networking capabilities can participate in the network as a node.  A node acts like a router, routing traffic to various locations. To incentivize contributors of compute and bandwidth, the protocol uses a proof-of-work algorithm, like Bitcoin.
 
-# Team
+## Team
 
 Julius Hamilton, Founder and Lead Developer.
 
@@ -33,6 +35,19 @@ Julius Hamilton, Founder and Lead Developer.
 5 years of experience in computational linguistics in private and corporate contexts
 
 Winner, "Honorable Mention", Permissionless 2024 Hackathon, Salt Lake City, October 9th, 2024, "Python SDK for Ava Protocol". https://app.buidlbox.io/blockworks/permissionless-iii
+
+## Customer Problem
+
+The internet is controlled by big companies. That means that individuals have limited freedom or control in modifying something about the internet when they want to. They cannot determine how much it should cost, what it should be like to sign up, and where you can and cannot access the internet. It doesn't have to be this way.
+
+## Target Market
+
+Every human on Earth.
+
+## Customer Segments
+
+To gain traction we will promote the project in communities where it would find appeal. We would emphasize its usefulness from the beginning: that there is a usable and cheap if not free alternative internet. We will find marketable applications to onboard less technology-oriented consumers by emphasizing that clearconnect is a universal network, not a product you buy from a company like Google Fiber. You just tap into the network and you're free
+
 
 
 
